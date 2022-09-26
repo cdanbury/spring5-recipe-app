@@ -1,2 +1,4 @@
-package guru.springframework.domain;public class Category {
+package guru.springframework.domain;
+
+public class Category {
 }
